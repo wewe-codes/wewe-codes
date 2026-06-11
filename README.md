@@ -1,16 +1,70 @@
-## Hi there 👋
+# 🚀 SYSTEM STATUS: ONLINE
 
-<!--
-**wewe-codes/wewe-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Kevin / LEKEVIN
 
-Here are some ideas to get you started:
+💻 Developer • Creator • Gamer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building websites, automation tools and projects that solve real problems.
+
+---
+
+## 🎯 CURRENT MISSION
+
+* 🌐 Improve lekevin.de
+* 📚 Learn software engineering
+* 🛠️ Build useful tools
+* 🚀 Ship projects
+
+---
+
+## ⚡ TECH STACK
+
+🐍 Python
+🌐 HTML
+🎨 CSS
+📜 JavaScript
+🔧 Git
+📦 GitHub
+
+---
+
+## 📂 PROJECTS
+
+### ⛏️ Pitforge Loot Assistant
+
+Minecraft automation tool built with Minescript.
+
+**Features**
+
+* Auto Loot
+* XP Tracking
+* Auto Near
+* Inventory Automation
+
+**Status:** 🟢 Active
+
+---
+
+### 🌐 lekevin.de
+
+Personal website and digital playground.
+
+A place for experiments, ideas and projects.
+
+**Status:** 🟢 Online
+
+---
+
+### 🏴‍☠️ Talekeeper
+
+Planned web platform for Sea of Thieves players.
+
+Currently in the concept and planning phase.
+
+**Status:** 🟡 Planning
+
+---
+
+## 📡 LINKS
+
+🌍 Website: lekevin.de
