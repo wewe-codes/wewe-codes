@@ -2,7 +2,7 @@
 
 ## 👋 Kevin / LEKEVIN
 
-💻 Developer • Creator • Gamer
+💻 Self-taught Developer • Creator • Gamer
 
 Building websites, automation tools and projects that solve real problems.
 
@@ -13,6 +13,9 @@ Building websites, automation tools and projects that solve real problems.
 - 🐍 Codédex — The Legend of Python
 - 50+ hours of hands-on Python coding
 - Built multiple personal projects
+
+➡️ View certificate on my portfolio:
+https://lekevin.de
 
 ---
 
