@@ -8,6 +8,12 @@ Building websites, automation tools and projects that solve real problems.
 
 ---
 
+## 🏆 Achievements
+
+- 🐍 Codédex — The Legend of Python
+- 50+ hours of hands-on Python coding
+- Built multiple personal projects
+
 ## 🎯 CURRENT MISSION
 
 * 🌐 Improve lekevin.de
